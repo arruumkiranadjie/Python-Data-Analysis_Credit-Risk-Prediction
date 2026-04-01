@@ -14,7 +14,7 @@
 
 ## 📌 Overview
 
-*Python Data Analysis Portfolio - Credit Risk Prediction* delivers an end-to-end machine learning pipeline for predicting borrower credit risk using real loan data spanning **2007–2014** from a Lending Company, covering over **466,285 loan records** across **74 raw features**. The primary objective is to classify borrowers as **Qualified** or **Unqualified** — providing a data-driven, binary decision support tool to assist lending institutions in reducing default exposure and improving credit approval precision.
+*Python Data Analysis Project - Credit Risk Prediction* delivers an end-to-end machine learning pipeline for predicting borrower credit risk using real loan data spanning **2007–2014** from a Lending Company, covering over **466,285 loan records** across **74 raw features**. The primary objective is to classify borrowers as **Qualified** or **Unqualified** — providing a data-driven, binary decision support tool to assist lending institutions in reducing default exposure and improving credit approval precision.
 
 The project is structured as a complete, production-oriented analytical workflow across four sequential phases:
 
